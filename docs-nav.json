@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "text": "快速入门",
+      "path": "Tutorials/Todo/Index.md"
+    },
+    {
+      "text": "入门教程",
+      "items": [
+        {
+          "text": "Web应用程序",
+          "path": "Getting-Started.md",
+          "items": [
+            {
+              "text": "1: 设置你的开发环境",
+              "path": "Getting-Started-Setup-Environment.md"
+            },
+            {
+              "text": "2: 创建新的解决方案",
+              "path": "Getting-Started-Create-Solution.md"
+            },
+            {
+              "text": "3: 运行解决方案",
+              "path": "Getting-Started-Running-Solution.md"
+            }
+          ]
+        },
+        {
+          "text": "控制台应用程序",
+          "path": "Startup-Templates/Console.md"
+        },
+        {
+          "text": "WPF应用程序",
+          "path": "Startup-Templates/WPF.md"
+        },
+        {
+          "text": "空Web应用程序",
+          "path": "Getting-Started-AspNetCore-Application.md"
+        }
+      ]
+    }
+}
